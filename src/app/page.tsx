@@ -49,7 +49,7 @@ export default function Home() {
             rel="noopener noreferrer"
             className="inline-block bg-blue-600 text-white px-6 py-3 rounded-full hover:bg-blue-700 transition-colors"
           >
-            GitHub'da İncele
+            GitHub&apos;da İncele
           </a>
         </div>
       </main>
